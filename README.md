@@ -13,7 +13,7 @@ Le document couvre :
 - **Avantages et limites** du test d'Anderson-Darling.
 
 **Consulter le rapport:**  
-➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./theorie_anderson_darling.pdf)
+➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./Etude_Anderson_Darling.pdf)
 
 ## Références  
 - Anderson, T. W., & Darling, D. A. (1952). *Asymptotic theory of certain ‘goodness of fit’ criteria based on stochastic processes*. Annals of Mathematical Statistics, 23, 193-212.  
