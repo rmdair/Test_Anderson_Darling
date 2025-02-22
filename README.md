@@ -16,7 +16,7 @@ Le document couvre :
 ➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./Etude_Anderson_Darling.pdf)
 
 **Version anglaise** (English version) :  
-➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./en/Study_Anderson_Darling_EN.pdf)
+➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./English/Study_Anderson_Darling.pdf)
 
 ## Références  
 - Anderson, T. W., & Darling, D. A. (1952). *Asymptotic theory of certain ‘goodness of fit’ criteria based on stochastic processes*. Annals of Mathematical Statistics, 23, 193-212.  
