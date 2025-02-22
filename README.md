@@ -1,4 +1,4 @@
-# Test d'Anderson-Darling : Analyse Théorique
+# Le Test d'Anderson-Darling : Analyse Théorique
 
 ## Présentation  
 Ce projet présente un **récapitulatif détaillé** des étapes de construction du test d'Anderson-Darling, un test de conformité statistique utilisé pour évaluer si un échantillon suit une loi de probabilité donnée.
@@ -12,8 +12,11 @@ Le document couvre :
 - **Comparaison avec d'autres tests** de conformité statistique. 
 - **Avantages et limites** du test d'Anderson-Darling.
 
-**Consulter le rapport:**  
+# Accès aux rapports  
 ➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./Etude_Anderson_Darling.pdf)
+
+**Version anglaise** (English version) :  
+➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./en/Study_Anderson_Darling_EN.pdf)
 
 ## Références  
 - Anderson, T. W., & Darling, D. A. (1952). *Asymptotic theory of certain ‘goodness of fit’ criteria based on stochastic processes*. Annals of Mathematical Statistics, 23, 193-212.  
