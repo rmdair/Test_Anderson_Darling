@@ -14,7 +14,7 @@ Le document couvre :
 - **Comparaison** avec d'autres tests de conformité statistique. 
 - **Avantages et limites** du test d'Anderson-Darling.
 
-## Ressources du projet  
+**Consulter le rapport :**   
 ➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./Etude_Anderson_Darling.pdf)
 
 **Version anglaise** (English version) :  
