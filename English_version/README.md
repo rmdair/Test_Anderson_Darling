@@ -1,6 +1,6 @@
 # The Anderson-Darling Test: Theoretical Analysis  
 
-## Introduction  
+## Overview  
 This project provides a **detailed summary** of the construction steps of the Anderson-Darling test, a goodness-of-fit statistical test used to evaluate whether a sample follows a given probability distribution.  
 
 The study is based on the foundational papers by **T.W. Anderson and D.A. Darling**, exploring the test's construction, its asymptotic properties, and its applications.  
@@ -12,8 +12,7 @@ The document covers:
 - **Comparison with other** goodness-of-fit statistical tests.  
 - **Advantages and limitations** of the Anderson-Darling test.  
 
-## Access to the Report  
-
+Access to the Report :  
 ➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./Study_Anderson_Darling.pdf)  
 
 ## References  
