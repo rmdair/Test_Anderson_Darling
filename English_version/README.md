@@ -1,4 +1,6 @@
-# The Anderson-Darling Test: Theoretical Analysis  
+<div align="center">
+  <h1> The Anderson-Darling Test: Theoretical Analysis </h1>
+</div>   
 
 ## Overview  
 This project provides a **detailed summary** of the construction steps of the Anderson-Darling test, a goodness-of-fit statistical test used to evaluate whether a sample follows a given probability distribution.  
