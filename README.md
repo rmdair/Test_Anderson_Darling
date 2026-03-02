@@ -1,26 +1,46 @@
 <div align="center">
-  <h1> Le Test d'Anderson-Darling : Analyse Théorique </h1>
-</div> 
+    <h1>Le test d'Anderson-Darling</h1>
+    <h2>Analyse théorique et implémentation pratique</h2>
+    &nbsp;
 
-## Description  
-Ce projet présente un **récapitulatif détaillé** des étapes de construction du test d'Anderson-Darling, un test de conformité statistique utilisé pour évaluer si un échantillon suit une loi de probabilité donnée.
+</div>      
 
-L'étude est basée sur les articles fondateurs de **T.W. Anderson et D.A. Darling**, avec une exploration de la construction du test, de ses propriétés asymptotiques et de ses applications.
+## Aperçu   
+Ce projet présente un récapitulatif détaillé des étapes de construction du test d'Anderson-Darling, un test de conformité statistique utilisé pour évaluer si un échantillon suit une loi de probabilité donnée.
 
-## Contenu du rapport  
+L'étude est basée sur les articles fondateurs de T.W. Anderson et D.A. Darling, avec une exploration de la construction du test, de ses propriétés asymptotiques et de ses applications.
+
+En complément de l’analyse théorique, le projet inclut également une implémentation pratique du test afin d’illustrer concrètement ses mécanismes et sa sensibilité aux écarts de distribution.
+
+&nbsp;
+
+## Contenu du projet 
+
+### Analyse théorique 
+
 Le document couvre :
 - **Historique et évolution** du test depuis sa création en 1954.
 - **Construction** mathématique. 
 - **Comparaison** avec d'autres tests de conformité statistique. 
 - **Avantages et limites** du test d'Anderson-Darling.
 
-**Consulter le rapport :**   
 ➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./Etude_Anderson_Darling.pdf)
 
-**Version anglaise** (English version) :  
-➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./English_version/Study_Anderson_Darling.pdf)
+Version anglaise (English version) :  
+➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./English/Study_Anderson_Darling.pdf)
 
----
+
+### Implémentation pratique
+
+Une implémentation pédagogique du test en Python, incluant :
+- Construction du statisticien à partir de la forme intégrale
+- Implémentation via les statistiques d’ordre
+- Analyse de la pondération des queues
+- Comparaison avec Kolmogorov–Smirnov
+
+➡️ [Notebook (ipynb)](./src/anderson_darling_practical.ipynb)
+
+&nbsp;
 
 ## Références  
 - Anderson, T. W., & Darling, D. A. (1952). *Asymptotic theory of certain ‘goodness of fit’ criteria based on stochastic processes*. Annals of Mathematical Statistics, 23, 193-212.  
