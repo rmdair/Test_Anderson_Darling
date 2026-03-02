@@ -27,7 +27,7 @@ Le document couvre :
 ➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./docs/Etude_Anderson_Darling.pdf)
 
 Version anglaise (English version) :  
-➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./docs/English/Study_Anderson_Darling.pdf)
+➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./docs/Study_Anderson_Darling.pdf)
 
 
 ### Implémentation pratique
