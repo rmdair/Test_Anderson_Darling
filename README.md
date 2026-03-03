@@ -1,9 +1,14 @@
 <div align="center">
-    <h1>Le test d'Anderson-Darling</h1>
+    <h1>Test d'Anderson-Darling</h1>
     <h2>Analyse théorique et implémentation pratique</h2>
     &nbsp;
 
 </div>      
+
+<p align="center">
+  <img src="assets/banner.webp" alt="Banner" width="60%">
+</p>
+
 
 ## Aperçu   
 Ce projet présente un récapitulatif détaillé des étapes de construction du test d'Anderson-Darling, un test de conformité statistique utilisé pour évaluer si un échantillon suit une loi de probabilité donnée.
@@ -24,10 +29,10 @@ Le document couvre :
 - **Comparaison** avec d'autres tests de conformité statistique. 
 - **Avantages et limites** du test d'Anderson-Darling.
 
-➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./docs/Etude_Anderson_Darling.pdf)
+➡️ [Analyse théorique du test d'Anderson-Darling (PDF)](./docs/Test-Anderson-Darling-Etude.pdf)
 
 Version anglaise (English version) :  
-➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./docs/Study_Anderson_Darling.pdf)
+➡️ [Theoretical analysis of the Anderson-Darling test (PDF)](./docs/Anderson-Darling-Test-Study.pdf)
 
 
 ### Implémentation pratique

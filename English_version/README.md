@@ -1,9 +1,14 @@
 <div align="center">
-    <h1>The Anderson–Darling Test</h1>
+    <h1>Anderson–Darling Test</h1>
     <h2>Theoretical Analysis and Practical Implementation</h2>
     &nbsp;
 
 </div>      
+
+<p align="center">
+  <img src="../assets/banner.webp" alt="Banner" width="60%">
+</p>
+
 
 ## Overview
 
@@ -25,7 +30,7 @@ The document covers:
 - A **comparison with other goodness-of-fit tests**  
 - The **advantages and limitations** of the Anderson–Darling test  
 
-➡️ [Theoretical analysis of the Anderson–Darling test (PDF)](../docs/Study_Anderson_Darling.pdf)
+➡️ [Theoretical analysis of the Anderson–Darling test (PDF)](../docs/Anderson-Darling-Test-Study.pdf)
 
 ### Practical Implementation  
 
